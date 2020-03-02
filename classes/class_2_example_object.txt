@@ -1,0 +1,15 @@
+Object: Table 4
+
+Attributes:
+booth: true
+seating_capacity: 4
+color: "green"
+height: 34
+width: 14
+length: 30
+
+Methods:
+increase_height: height = 40
+add_chair: seating_capacity = 5
+paint: color = "blue"
+calculate_surface_area: surface_area = 420 (the result of 14 * 30)
