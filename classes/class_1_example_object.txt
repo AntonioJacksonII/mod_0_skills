@@ -1,0 +1,14 @@
+Object: Kelly Smith
+
+Attributes:
+first_name: "Kelly"
+last_name: "Smith"
+hourly_pay_rate: 15.00
+start_time: "08:00 AM"
+Spanish_fluent: false
+
+Methods:
+increase_pay: hourly_pay_rate = 17.00
+change_shift: start_time = "03:00 PM"
+learn_Spanish: Spanish_fluent = true
+change_name: last_name = "Johnson"
