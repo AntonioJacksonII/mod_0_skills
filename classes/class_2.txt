@@ -3,7 +3,7 @@ Class: Tables
 Attributes:
 booth (boolean)
 seating_capacity (integer)
-color (float)
+color (string)
 height (integer)
 width (integer)
 length(integer)
