@@ -1,0 +1,15 @@
+Class: Tables
+
+Attributes:
+booth (boolean)
+seating_capacity (integer)
+color (float)
+height (integer)
+width (integer)
+length(integer)
+
+Methods:
+increase_height (increases the height attribute)
+add_chair (increases the seating_capacity attribute)
+paint (changes the color attribute)
+calculate_surface_area (multiplies the width and length attributes)
