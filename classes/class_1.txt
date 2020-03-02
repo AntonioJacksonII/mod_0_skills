@@ -1,0 +1,14 @@
+Class:  Servers
+
+Attributes:
+first_name (string)
+last_name (string)
+hourly_pay_rate (float)
+start_time (string)
+Spanish_fluent (boolean)
+
+Methods:
+increase_pay (increases the hourly_pay_rate attribute)
+change_shift (changes the start_time attribute)
+learn_Spanish (changes the Spanish_fluent boolean from false to true)
+change_name (changes the first_name and/or last_name attributes, depending on circumstances)
